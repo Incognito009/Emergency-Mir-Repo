@@ -1,4 +1,4 @@
-FROM MajnuRangeela/mega-sdk-python:latest
+FROM majnurangeela/mega-sdk-python:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
